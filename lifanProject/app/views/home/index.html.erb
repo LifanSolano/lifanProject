@@ -1,0 +1,21 @@
+<b>Users</b>
+ 
+
+    <% @users.each do |l| -%>
+      <ul>
+        <li><%= l.name %></li>
+      </ul>
+    <% end %>
+    
+
+    <%= form_for @user, url: {action: "create"} do |f| %>
+        <input type="text" name="name" />
+        <br />
+        <input type="date" name="created_at" />
+        <br />
+        <input type="date" name="updated_at" />
+        <br />
+        <input type="submit" name="submitBtn">
+    <% end %>
+<br>
+ 

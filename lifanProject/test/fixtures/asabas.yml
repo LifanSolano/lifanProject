@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  string: MyString
+  age: MyString
+  integer: MyString
+  login: MyString
+  string: MyString
+  password: MyString
+  string: MyString
+  concertProgram: MyString
+  text: MyString
+  partyTypeID: MyString
+  integer: MyString
+  cityID: MyString
+  integer: MyString
+  countryID: MyString
+  integer: MyString
+  price: MyString
+  integer: MyString
+  rating: MyString
+  float: MyString
+
+two:
+  name: MyString
+  string: MyString
+  age: MyString
+  integer: MyString
+  login: MyString
+  string: MyString
+  password: MyString
+  string: MyString
+  concertProgram: MyString
+  text: MyString
+  partyTypeID: MyString
+  integer: MyString
+  cityID: MyString
+  integer: MyString
+  countryID: MyString
+  integer: MyString
+  price: MyString
+  integer: MyString
+  rating: MyString
+  float: MyString
